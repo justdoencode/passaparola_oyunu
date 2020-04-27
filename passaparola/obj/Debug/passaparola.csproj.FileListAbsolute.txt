@@ -1,0 +1,20 @@
+C:\Users\poyra\source\repos\passaparola\passaparola\obj\Debug\passaparola.csprojAssemblyReference.cache
+C:\Users\poyra\source\repos\passaparola\passaparola\obj\Debug\passaparola.Properties.Resources.resources
+C:\Users\poyra\source\repos\passaparola\passaparola\obj\Debug\passaparola.csproj.GenerateResource.cache
+C:\Users\poyra\source\repos\passaparola\passaparola\bin\Debug\passaparola.exe.config
+C:\Users\poyra\source\repos\passaparola\passaparola\bin\Debug\passaparola.exe
+C:\Users\poyra\source\repos\passaparola\passaparola\bin\Debug\passaparola.pdb
+C:\Users\poyra\source\repos\passaparola\passaparola\obj\Debug\passaparola.exe
+C:\Users\poyra\source\repos\passaparola\passaparola\obj\Debug\passaparola.pdb
+C:\Users\poyra\source\repos\passaparola\passaparola\obj\Debug\passaparola.frm_giris.resources
+C:\Users\poyra\source\repos\passaparola\passaparola\obj\Debug\passaparola.frm_oyun.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\bin\Debug\passaparola.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\bin\Debug\passaparola.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\bin\Debug\passaparola.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\obj\Debug\passaparola.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\obj\Debug\passaparola.frm_oyun.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\obj\Debug\passaparola.frm_giris.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\obj\Debug\passaparola.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\obj\Debug\passaparola.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\obj\Debug\passaparola.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\passaparola\passaparola\obj\Debug\passaparola.pdb
